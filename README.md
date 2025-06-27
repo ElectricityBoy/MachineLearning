@@ -39,10 +39,18 @@ Processo de aprendizaos dos principais. Registros de livros, videoaulas e projet
       </td>
     </tr>
     <tr>
-              <td><a href="fase 1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px"></a></td>
-        <td><a href="fase 2"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" width="100px"></a></td>
-        <td><a href="fase 3"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="100px"></a></td>
-        <td><a href="fase 4"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135682.png" width="100px"></a></td>
+            <td align="center">
+        <a href="fase 1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="80px"></a>
+      </td>
+      <td align="center">
+        <a href="fase 2"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" height="80px"></a>
+      </td>
+      <td align="center">
+        <a href="fase 3"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="80px"></a>
+      </td>
+      <td align="center">
+        <a href="fase 4"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135682.png" height="80px"></a>
+      </td>
     </tr>
   </tbody>
 </table>
