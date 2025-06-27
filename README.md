@@ -23,16 +23,18 @@ Processo de aprendizaos dos principais. Registros de livros, videoaulas e projet
   <tbody>
     <tr>
       <td align="center">Fase 1<br>
-        <br>Python
+        <span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python</span>
       </td>
       <td align="center">Fase 2<br>
-        <br>Estatística
+        <span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estatística</span>
       </td>
       <td align="center">Fase 3<br>
-        <br>Machine Learning
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning</span>
       </td>
       <td align="center">Fase 4<br>
-        <br> Projeto Final
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projeto de Conclusão do Curso</span>
       </td>
     </tr>
     <tr style="vertical-align: middle;">
