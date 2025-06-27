@@ -1,21 +1,76 @@
-## Machine Learning
-> Mastering knowledging about Data Science
+<h1 id="inicio" align="center">
+    <div>
+    <a href="https://scikit-learn.org/">
+      <img height='60' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"/>
+    </a>
+    <a href="https://pandas.pydata.org/">
+      <img height='60' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
+    </a>
+    <a href="https://www.tensorflow.org/">
+      <img height='60' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
+    </a>
+  </div>
+  <br>
+  Jornada de Aprendizado em Machine Learning
+</h1>
 
-### Supervisionado
+Processo de aprendizaos dos principais. Registros de livros, videoaulas e projetos pessoais.
 
-Eu tenho um target específico para estimativa.
 
-**Exemplos**: Quantidade de vendas, receita presuimda, valor de crédito, precificação de imóvel, volume de chuva
+## 🌒 Fases do Processo de Aprendizado
 
-- **Classificação** : Variáveis qualitativas - Rotulos ou classe
-- **Regressão** : Variáveis númericas - Estimativa de um número
-- 
-![alt text](image-1.png)
+<table>
+  <tbody>
+    <tr>
+      <td align="center">Fase 1<br>
+        <span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Revisão Python
+        </span>
+      </td>
+      <td align="center">Fase 2<br>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estatística</span>
+      </td>
+      <td align="center">Fase 3<br>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning</span>
+      </td>
+      <td align="center">Fase 4<br>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCC</span>
+      </td>
+    </tr>
+    <tr>
+              <td><a href="fase 1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px"></a></td>
+        <td><a href="fase 2"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" width="100px"></a></td>
+        <td><a href="fase 3"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="100px"></a></td>
+        <td><a href="fase 4"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135682.png" width="100px"></a></td>
+    </tr>
+  </tbody>
+</table>
 
-![alt text](image-2.png)
 
-### Não supervisionado
+## 🗓️ Visão geral do programa
 
-Não tenho uma variável resposta
+![](assets/fases-do-prog-pt-br.png)
 
-![alt text](image.png)
+
+<!-- ### n. [Tecnologia n](#)
+
+- [Subtópico 1](#link-para-subtopico-1)
+- [Subtópico 2](#link-para-subtopico-2)
+- [Subtópico 3](#link-para-subtopico-3) -->
+
+
+
+## 🤝 Pessoas colaboradoras
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center"><a href="http://ivesvh.com"><img src="https://avatars.githubusercontent.com/u/65613154?v=4" width="100px;" alt="Ives van Hoorne"/><br /><sub><b>Elder Pereira 💻</b> </tr>
+</table>
+
+## 📝 Disclaimer
+
+
+[⬆ Voltar ao topo](#inicio)<br>
