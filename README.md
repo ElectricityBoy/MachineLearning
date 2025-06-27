@@ -24,32 +24,31 @@ Processo de aprendizaos dos principais. Registros de livros, videoaulas e projet
     <tr>
       <td align="center">Fase 1<br>
         <span>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Revisão Python
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Revisão Python
         </span>
       </td>
       <td align="center">Fase 2<br>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estatística</span>
       </td>
       <td align="center">Fase 3<br>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Machine Learning   </span>
       </td>
       <td align="center">Fase 4<br>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TCC</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projeto de Conclusão do Curso</span>
       </td>
     </tr>
-    <tr>
-            <td align="center">
-        <a href="fase 1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="80px"></a>
+    <tr style="vertical-align: middle;">
+            <td align="center" style="padding: 5px 0;">
+        <a href="fase 1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="70px"></a>
       </td>
-      <td align="center">
-        <a href="fase 2"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" height="80px"></a>
+      <td align="center" style="padding: 5px 0;">
+        <a href="fase 2"><img src="https://icon-library.com/images/statistics-icon/statistics-icon-23.jpg" height="70px"></a>
       </td>
-      <td align="center">
-        <a href="fase 3"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="80px"></a>
+      <td align="center" style="padding: 5px 0;">
+        <a href="fase 3"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="70px"></a>
       </td>
-      <td align="center">
-        <a href="fase 4"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135682.png" height="80px"></a>
+      <td align="center" style="padding: 5px 0;">
+        <a href="fase 4"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135682.png" height="70px"></a>
       </td>
     </tr>
   </tbody>
